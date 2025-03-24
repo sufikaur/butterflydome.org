@@ -1,2 +1,2 @@
-# butterflyfdome.org
+# butterflydome.org
 explore the butterfly dome
